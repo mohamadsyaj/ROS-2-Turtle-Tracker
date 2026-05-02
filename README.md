@@ -88,3 +88,7 @@ ros2 run turtle_tracker turtle_chaser
 ## How It Works
 
 The project is designed to run a ROS 2 node that controls a turtle inside the `turtlesim` simulator. The main turtle follows a target turtle. When the target is reached, the target is respawned so the chase can continue.
+
+## Youtube link
+
+https://youtu.be/LUb-zRgAJjw
