@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_chaser = turtle_tracker.turtle_chaser:main

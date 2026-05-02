@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: turtle-tracker
+Version: 0.0.0
+Summary: Turtlesim tracker that chases a target turtle and respawns it.
+Maintainer: your_name
+Maintainer-email: your_email@example.com
+License: TODO: License declaration
